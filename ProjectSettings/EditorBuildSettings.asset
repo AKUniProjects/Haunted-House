@@ -6,8 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    path: Assets/_3DStealthGame/scene/MainMenu.unity
+    guid: 23329d3f02c9cbe4aa910d4507e6e251
+  - enabled: 1
+    path: Assets/_3DStealthGame/scene/Main.unity
+    guid: 0f3b197b1f33b994bafed9e943c30df4
+  - enabled: 1
+    path: Assets/_3DStealthGame/scene/BonusLevel.unity
+    guid: aced60bf2e61130459b5671d96946aee
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
