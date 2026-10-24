@@ -20,7 +20,7 @@ Haunted House is a 3D stealth game where the player explores a haunted house, av
 
 ## Build / Published Game
 
-**Game link:** *Add the published game or build link here after publishing.*
+**Game link:** https://play.unity.com/en/games/bbb89121-4115-4547-9c57-52b277d702f0/haunted-house
 
 ## Tutorial
 
